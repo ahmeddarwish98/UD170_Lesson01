@@ -1,7 +1,7 @@
 # UD170_Lesson01
 Intro to Data Analysis lesson 1 resources and code
 
-https://github.com/leenamurgai/ud170-intro-to-data-analysis#ud170-introduction-to-data-analysis-udacity-course-caroline-buckey
+https://www.udacity.com/course/intro-to-data-analysis--ud170
 
 enrollments.csv:
 Data about a random subset of Data Analyst Nanodegree students who complete their first project and a random subset of students who do not.
